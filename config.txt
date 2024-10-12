@@ -1,0 +1,10 @@
+# 1. Tener instalado globalmente -> pip install pipenv
+# 2. Para crear el entorno: Me muevo a la carpeta del proyecto y escribo -> pipenv install
+# 3. Recargo el editor para que actualice la seleccion de interpretes y elijo la de Pipvenv
+# 3.1 Esto de de reflejarse en la terminal, saldra el nombre de la carpeta del proyecto (nombre de carpeta)
+# 3.1 Con esto ya puedo leer variables de entorno
+# 4. Para instalar un paquete externo -> pip install <paquete>
+# 4.1 pip list para comprobar los paquetes
+# 5. Para salir: exit o deactivate
+
+# Para volver a entrar al entorno: pipenv shell
